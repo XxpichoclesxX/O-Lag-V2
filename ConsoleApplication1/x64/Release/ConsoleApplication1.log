@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(128,26): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(31,12): warning C4102: 'limpiar': unreferenced label
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(121,11): warning C4102: 'checar': unreferenced label
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 84 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\x64\Release\ConsoleApplication1.exe
